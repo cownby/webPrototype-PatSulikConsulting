@@ -9,12 +9,12 @@ baseurl: '/webPrototype-PatSulikConsulting' #change it according to your reposit
 yourname: Pat Sulik  ## put your name
 title: 'Forensic Toxicology, Fellow'  ## your title
 location: Fort Collins , CO
-
+email: DrPatSulik@gmail.com
 
 ## Social Profiles
 facebook: #http://www.facebook.com  ## your facebook account url
 twitter: #http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
+linkedin: https://www.linkedin.com/in/patricia-sulik-1b122015/  ## your linkedin account url
 dribbble: #http://www.dribble.com  ## you dribbble account url
 foursquare: #http://www.foursquare.com  ## your foursquare account url
 
